@@ -70,7 +70,6 @@ src/
 
 ```bash
 git clone https://github.com/mshipan/L2B5_Assignment_4_Fontend.git
-cd client
 ```
 
 ### 2. Install dependencies
@@ -119,8 +118,8 @@ npm run dev
 
 ## Live Demo
 
-- **Frontend:** [https://your-frontend.vercel.app](#)
-- **Backend:** [https://your-backend-api.onrender.com](#)
+- **Frontend:** [https://lmsys-client.vercel.app](#)
+- **Backend:** [https://lmsys-server.vercel.app](#)
 
 ---
 
