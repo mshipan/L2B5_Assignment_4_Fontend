@@ -69,7 +69,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/mshipan/L2B5_Assignment_4_Fontend.git
 cd client
 ```
 
@@ -97,7 +97,7 @@ npm run dev
 
 ---
 
-## 🧪 Available Pages
+## Available Pages
 
 | Route             | Description                         |
 | ----------------- | ----------------------------------- |
